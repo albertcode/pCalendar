@@ -1,0 +1,387 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//RFFM Atletico Infantil H//ES
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Atletico Infantil H
+BEGIN:VEVENT
+SUMMARY:Jornada 1: RACING VILLAVERDE C.F. 'B' vs CLUB ATLETICO DE MADRID S
+ .A.D. 'H'
+DTSTART:20260927T150000
+DTEND:20260927T164500
+UID:rffm-atm-inf-h-5622324@rffm.es
+DESCRIPTION:Jornada 1\nLocal: RACING VILLAVERDE C.F. 'B'\nVisitante: CLUB 
+ ATLETICO DE MADRID S.A.D. 'H'\nActa: https://www.rffm.es/acta-partido/5622
+ 324?temporada=22&competicion=26737828&grupo=26737839
+URL:https://www.rffm.es/acta-partido/5622324?temporada=22&competicion=2673
+ 7828&grupo=26737839
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jornada 2: CLUB ATLETICO DE MADRID S.A.D. 'H' vs A.J.D.C. LA MANCH
+ A 'A'
+DTSTART:20261003T150000
+DTEND:20261003T164500
+UID:rffm-atm-inf-h-5622332@rffm.es
+DESCRIPTION:Jornada 2\nLocal: CLUB ATLETICO DE MADRID S.A.D. 'H'\nVisitant
+ e: A.J.D.C. LA MANCHA 'A'\nActa: https://www.rffm.es/acta-partido/5622332?
+ temporada=22&competicion=26737828&grupo=26737839
+URL:https://www.rffm.es/acta-partido/5622332?temporada=22&competicion=2673
+ 7828&grupo=26737839
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jornada 3: C.D. ORCASUR SIN FRONTERAS 'A' vs CLUB ATLETICO DE MADR
+ ID S.A.D. 'H'
+DTSTART:20261010T134500
+DTEND:20261010T153000
+UID:rffm-atm-inf-h-5622339@rffm.es
+DESCRIPTION:Jornada 3\nLocal: C.D. ORCASUR SIN FRONTERAS 'A'\nVisitante: C
+ LUB ATLETICO DE MADRID S.A.D. 'H'\nActa: https://www.rffm.es/acta-partido/
+ 5622339?temporada=22&competicion=26737828&grupo=26737839
+URL:https://www.rffm.es/acta-partido/5622339?temporada=22&competicion=2673
+ 7828&grupo=26737839
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jornada 4: CLUB ATLETICO DE MADRID S.A.D. 'H' vs Equipo Fuera (No 
+ asignado)
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+UID:rffm-atm-inf-h-5672828@rffm.es
+DESCRIPTION:Jornada 4\nLocal: CLUB ATLETICO DE MADRID S.A.D. 'H'\nVisitant
+ e: Equipo Fuera (No asignado)\nActa: https://www.rffm.es/acta-partido/5672
+ 828?temporada=22&competicion=26737828&grupo=26737839\nHora: pendiente de c
+ onfirmar en RFFM
+URL:https://www.rffm.es/acta-partido/5672828?temporada=22&competicion=2673
+ 7828&grupo=26737839
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jornada 5: S.A.D. FUNDACION RAYO VALLECANO 'F' vs CLUB ATLETICO DE
+  MADRID S.A.D. 'H'
+DTSTART:20261024T163000
+DTEND:20261024T181500
+UID:rffm-atm-inf-h-5622354@rffm.es
+DESCRIPTION:Jornada 5\nLocal: S.A.D. FUNDACION RAYO VALLECANO 'F'\nVisitan
+ te: CLUB ATLETICO DE MADRID S.A.D. 'H'\nActa: https://www.rffm.es/acta-par
+ tido/5622354?temporada=22&competicion=26737828&grupo=26737839
+URL:https://www.rffm.es/acta-partido/5622354?temporada=22&competicion=2673
+ 7828&grupo=26737839
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jornada 6: CLUB ATLETICO DE MADRID S.A.D. 'H' vs C.F. MADRID RIO -
+  ARGANZUELA 'B'
+DTSTART:20261031T133000
+DTEND:20261031T151500
+UID:rffm-atm-inf-h-5622362@rffm.es
+DESCRIPTION:Jornada 6\nLocal: CLUB ATLETICO DE MADRID S.A.D. 'H'\nVisitant
+ e: C.F. MADRID RIO - ARGANZUELA 'B'\nActa: https://www.rffm.es/acta-partid
+ o/5622362?temporada=22&competicion=26737828&grupo=26737839
+URL:https://www.rffm.es/acta-partido/5622362?temporada=22&competicion=2673
+ 7828&grupo=26737839
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jornada 7: ESC. FUT. A.V. LA CHIMENEA 'A' vs CLUB ATLETICO DE MADR
+ ID S.A.D. 'H'
+DTSTART:20261107T103000
+DTEND:20261107T121500
+UID:rffm-atm-inf-h-5622369@rffm.es
+DESCRIPTION:Jornada 7\nLocal: ESC. FUT. A.V. LA CHIMENEA 'A'\nVisitante: C
+ LUB ATLETICO DE MADRID S.A.D. 'H'\nActa: https://www.rffm.es/acta-partido/
+ 5622369?temporada=22&competicion=26737828&grupo=26737839
+URL:https://www.rffm.es/acta-partido/5622369?temporada=22&competicion=2673
+ 7828&grupo=26737839
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jornada 8: CLUB ATLETICO DE MADRID S.A.D. 'H' vs S.A.D. VILLAVERDE
+  SAN ANDRES 'A'
+DTSTART:20261114T150000
+DTEND:20261114T164500
+UID:rffm-atm-inf-h-5622377@rffm.es
+DESCRIPTION:Jornada 8\nLocal: CLUB ATLETICO DE MADRID S.A.D. 'H'\nVisitant
+ e: S.A.D. VILLAVERDE SAN ANDRES 'A'\nActa: https://www.rffm.es/acta-partid
+ o/5622377?temporada=22&competicion=26737828&grupo=26737839
+URL:https://www.rffm.es/acta-partido/5622377?temporada=22&competicion=2673
+ 7828&grupo=26737839
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jornada 9: A.D. ESCUELA DE FUTBOL USERA 'A' vs CLUB ATLETICO DE MA
+ DRID S.A.D. 'H'
+DTSTART:20261121T121500
+DTEND:20261121T140000
+UID:rffm-atm-inf-h-5622384@rffm.es
+DESCRIPTION:Jornada 9\nLocal: A.D. ESCUELA DE FUTBOL USERA 'A'\nVisitante:
+  CLUB ATLETICO DE MADRID S.A.D. 'H'\nActa: https://www.rffm.es/acta-partid
+ o/5622384?temporada=22&competicion=26737828&grupo=26737839
+URL:https://www.rffm.es/acta-partido/5622384?temporada=22&competicion=2673
+ 7828&grupo=26737839
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jornada 10: CLUB ATLETICO DE MADRID S.A.D. 'H' vs C.D. ALZOLA-HALC
+ ONES 'B'
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+UID:rffm-atm-inf-h-5622392@rffm.es
+DESCRIPTION:Jornada 10\nLocal: CLUB ATLETICO DE MADRID S.A.D. 'H'\nVisitan
+ te: C.D. ALZOLA-HALCONES 'B'\nActa: https://www.rffm.es/acta-partido/56223
+ 92?temporada=22&competicion=26737828&grupo=26737839\nHora: pendiente de co
+ nfirmar en RFFM
+URL:https://www.rffm.es/acta-partido/5622392?temporada=22&competicion=2673
+ 7828&grupo=26737839
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jornada 11: CDB UNION DEPORTIVA ARGANZUELA 'C' vs CLUB ATLETICO DE
+  MADRID S.A.D. 'H'
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+UID:rffm-atm-inf-h-5622399@rffm.es
+DESCRIPTION:Jornada 11\nLocal: CDB UNION DEPORTIVA ARGANZUELA 'C'\nVisitan
+ te: CLUB ATLETICO DE MADRID S.A.D. 'H'\nActa: https://www.rffm.es/acta-par
+ tido/5622399?temporada=22&competicion=26737828&grupo=26737839\nHora: pendi
+ ente de confirmar en RFFM
+URL:https://www.rffm.es/acta-partido/5622399?temporada=22&competicion=2673
+ 7828&grupo=26737839
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jornada 12: CLUB ATLETICO DE MADRID S.A.D. 'H' vs A.D.C. SAN FERMI
+ N 'A'
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+UID:rffm-atm-inf-h-5622407@rffm.es
+DESCRIPTION:Jornada 12\nLocal: CLUB ATLETICO DE MADRID S.A.D. 'H'\nVisitan
+ te: A.D.C. SAN FERMIN 'A'\nActa: https://www.rffm.es/acta-partido/5622407?
+ temporada=22&competicion=26737828&grupo=26737839\nHora: pendiente de confi
+ rmar en RFFM
+URL:https://www.rffm.es/acta-partido/5622407?temporada=22&competicion=2673
+ 7828&grupo=26737839
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jornada 13: A.D. ORCASITAS 'A' vs CLUB ATLETICO DE MADRID S.A.D. '
+ H'
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+UID:rffm-atm-inf-h-5622414@rffm.es
+DESCRIPTION:Jornada 13\nLocal: A.D. ORCASITAS 'A'\nVisitante: CLUB ATLETIC
+ O DE MADRID S.A.D. 'H'\nActa: https://www.rffm.es/acta-partido/5622414?tem
+ porada=22&competicion=26737828&grupo=26737839\nHora: pendiente de confirma
+ r en RFFM
+URL:https://www.rffm.es/acta-partido/5622414?temporada=22&competicion=2673
+ 7828&grupo=26737839
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jornada 14: CLUB ATLETICO DE MADRID S.A.D. 'H' vs UNION DEPORTIVA 
+ USERA 'A'
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+UID:rffm-atm-inf-h-5622422@rffm.es
+DESCRIPTION:Jornada 14\nLocal: CLUB ATLETICO DE MADRID S.A.D. 'H'\nVisitan
+ te: UNION DEPORTIVA USERA 'A'\nActa: https://www.rffm.es/acta-partido/5622
+ 422?temporada=22&competicion=26737828&grupo=26737839\nHora: pendiente de c
+ onfirmar en RFFM
+URL:https://www.rffm.es/acta-partido/5622422?temporada=22&competicion=2673
+ 7828&grupo=26737839
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jornada 15: C.D. NUEVO BOADILLA 'F' vs CLUB ATLETICO DE MADRID S.A
+ .D. 'H'
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+UID:rffm-atm-inf-h-5622429@rffm.es
+DESCRIPTION:Jornada 15\nLocal: C.D. NUEVO BOADILLA 'F'\nVisitante: CLUB AT
+ LETICO DE MADRID S.A.D. 'H'\nActa: https://www.rffm.es/acta-partido/562242
+ 9?temporada=22&competicion=26737828&grupo=26737839\nHora: pendiente de con
+ firmar en RFFM
+URL:https://www.rffm.es/acta-partido/5622429?temporada=22&competicion=2673
+ 7828&grupo=26737839
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jornada 16: CLUB ATLETICO DE MADRID S.A.D. 'H' vs RACING VILLAVERD
+ E C.F. 'B'
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+UID:rffm-atm-inf-h-5622444@rffm.es
+DESCRIPTION:Jornada 16\nLocal: CLUB ATLETICO DE MADRID S.A.D. 'H'\nVisitan
+ te: RACING VILLAVERDE C.F. 'B'\nActa: https://www.rffm.es/acta-partido/562
+ 2444?temporada=22&competicion=26737828&grupo=26737839\nHora: pendiente de 
+ confirmar en RFFM
+URL:https://www.rffm.es/acta-partido/5622444?temporada=22&competicion=2673
+ 7828&grupo=26737839
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jornada 17: A.J.D.C. LA MANCHA 'A' vs CLUB ATLETICO DE MADRID S.A.
+ D. 'H'
+DTSTART:20270213T093000
+DTEND:20270213T111500
+UID:rffm-atm-inf-h-5622452@rffm.es
+DESCRIPTION:Jornada 17\nLocal: A.J.D.C. LA MANCHA 'A'\nVisitante: CLUB ATL
+ ETICO DE MADRID S.A.D. 'H'\nActa: https://www.rffm.es/acta-partido/5622452
+ ?temporada=22&competicion=26737828&grupo=26737839
+URL:https://www.rffm.es/acta-partido/5622452?temporada=22&competicion=2673
+ 7828&grupo=26737839
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jornada 18: CLUB ATLETICO DE MADRID S.A.D. 'H' vs C.D. ORCASUR SIN
+  FRONTERAS 'A'
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+UID:rffm-atm-inf-h-5622459@rffm.es
+DESCRIPTION:Jornada 18\nLocal: CLUB ATLETICO DE MADRID S.A.D. 'H'\nVisitan
+ te: C.D. ORCASUR SIN FRONTERAS 'A'\nActa: https://www.rffm.es/acta-partido
+ /5622459?temporada=22&competicion=26737828&grupo=26737839\nHora: pendiente
+  de confirmar en RFFM
+URL:https://www.rffm.es/acta-partido/5622459?temporada=22&competicion=2673
+ 7828&grupo=26737839
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jornada 19: Equipo Casa (No asignado) vs CLUB ATLETICO DE MADRID S
+ .A.D. 'H'
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+UID:rffm-atm-inf-h-5672820@rffm.es
+DESCRIPTION:Jornada 19\nLocal: Equipo Casa (No asignado)\nVisitante: CLUB 
+ ATLETICO DE MADRID S.A.D. 'H'\nActa: https://www.rffm.es/acta-partido/5672
+ 820?temporada=22&competicion=26737828&grupo=26737839\nHora: pendiente de c
+ onfirmar en RFFM
+URL:https://www.rffm.es/acta-partido/5672820?temporada=22&competicion=2673
+ 7828&grupo=26737839
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jornada 20: CLUB ATLETICO DE MADRID S.A.D. 'H' vs S.A.D. FUNDACION
+  RAYO VALLECANO 'F'
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+UID:rffm-atm-inf-h-5622474@rffm.es
+DESCRIPTION:Jornada 20\nLocal: CLUB ATLETICO DE MADRID S.A.D. 'H'\nVisitan
+ te: S.A.D. FUNDACION RAYO VALLECANO 'F'\nActa: https://www.rffm.es/acta-pa
+ rtido/5622474?temporada=22&competicion=26737828&grupo=26737839\nHora: pend
+ iente de confirmar en RFFM
+URL:https://www.rffm.es/acta-partido/5622474?temporada=22&competicion=2673
+ 7828&grupo=26737839
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jornada 21: C.F. MADRID RIO - ARGANZUELA 'B' vs CLUB ATLETICO DE M
+ ADRID S.A.D. 'H'
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+UID:rffm-atm-inf-h-5622482@rffm.es
+DESCRIPTION:Jornada 21\nLocal: C.F. MADRID RIO - ARGANZUELA 'B'\nVisitante
+ : CLUB ATLETICO DE MADRID S.A.D. 'H'\nActa: https://www.rffm.es/acta-parti
+ do/5622482?temporada=22&competicion=26737828&grupo=26737839\nHora: pendien
+ te de confirmar en RFFM
+URL:https://www.rffm.es/acta-partido/5622482?temporada=22&competicion=2673
+ 7828&grupo=26737839
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jornada 22: CLUB ATLETICO DE MADRID S.A.D. 'H' vs ESC. FUT. A.V. L
+ A CHIMENEA 'A'
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+UID:rffm-atm-inf-h-5622489@rffm.es
+DESCRIPTION:Jornada 22\nLocal: CLUB ATLETICO DE MADRID S.A.D. 'H'\nVisitan
+ te: ESC. FUT. A.V. LA CHIMENEA 'A'\nActa: https://www.rffm.es/acta-partido
+ /5622489?temporada=22&competicion=26737828&grupo=26737839\nHora: pendiente
+  de confirmar en RFFM
+URL:https://www.rffm.es/acta-partido/5622489?temporada=22&competicion=2673
+ 7828&grupo=26737839
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jornada 23: S.A.D. VILLAVERDE SAN ANDRES 'A' vs CLUB ATLETICO DE M
+ ADRID S.A.D. 'H'
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+UID:rffm-atm-inf-h-5622497@rffm.es
+DESCRIPTION:Jornada 23\nLocal: S.A.D. VILLAVERDE SAN ANDRES 'A'\nVisitante
+ : CLUB ATLETICO DE MADRID S.A.D. 'H'\nActa: https://www.rffm.es/acta-parti
+ do/5622497?temporada=22&competicion=26737828&grupo=26737839\nHora: pendien
+ te de confirmar en RFFM
+URL:https://www.rffm.es/acta-partido/5622497?temporada=22&competicion=2673
+ 7828&grupo=26737839
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jornada 24: CLUB ATLETICO DE MADRID S.A.D. 'H' vs A.D. ESCUELA DE 
+ FUTBOL USERA 'A'
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+UID:rffm-atm-inf-h-5622504@rffm.es
+DESCRIPTION:Jornada 24\nLocal: CLUB ATLETICO DE MADRID S.A.D. 'H'\nVisitan
+ te: A.D. ESCUELA DE FUTBOL USERA 'A'\nActa: https://www.rffm.es/acta-parti
+ do/5622504?temporada=22&competicion=26737828&grupo=26737839\nHora: pendien
+ te de confirmar en RFFM
+URL:https://www.rffm.es/acta-partido/5622504?temporada=22&competicion=2673
+ 7828&grupo=26737839
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jornada 25: C.D. ALZOLA-HALCONES 'B' vs CLUB ATLETICO DE MADRID S.
+ A.D. 'H'
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+UID:rffm-atm-inf-h-5622512@rffm.es
+DESCRIPTION:Jornada 25\nLocal: C.D. ALZOLA-HALCONES 'B'\nVisitante: CLUB A
+ TLETICO DE MADRID S.A.D. 'H'\nActa: https://www.rffm.es/acta-partido/56225
+ 12?temporada=22&competicion=26737828&grupo=26737839\nHora: pendiente de co
+ nfirmar en RFFM
+URL:https://www.rffm.es/acta-partido/5622512?temporada=22&competicion=2673
+ 7828&grupo=26737839
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jornada 26: CLUB ATLETICO DE MADRID S.A.D. 'H' vs CDB UNION DEPORT
+ IVA ARGANZUELA 'C'
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+UID:rffm-atm-inf-h-5622519@rffm.es
+DESCRIPTION:Jornada 26\nLocal: CLUB ATLETICO DE MADRID S.A.D. 'H'\nVisitan
+ te: CDB UNION DEPORTIVA ARGANZUELA 'C'\nActa: https://www.rffm.es/acta-par
+ tido/5622519?temporada=22&competicion=26737828&grupo=26737839\nHora: pendi
+ ente de confirmar en RFFM
+URL:https://www.rffm.es/acta-partido/5622519?temporada=22&competicion=2673
+ 7828&grupo=26737839
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jornada 27: A.D.C. SAN FERMIN 'A' vs CLUB ATLETICO DE MADRID S.A.D
+ . 'H'
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+UID:rffm-atm-inf-h-5622527@rffm.es
+DESCRIPTION:Jornada 27\nLocal: A.D.C. SAN FERMIN 'A'\nVisitante: CLUB ATLE
+ TICO DE MADRID S.A.D. 'H'\nActa: https://www.rffm.es/acta-partido/5622527?
+ temporada=22&competicion=26737828&grupo=26737839\nHora: pendiente de confi
+ rmar en RFFM
+URL:https://www.rffm.es/acta-partido/5622527?temporada=22&competicion=2673
+ 7828&grupo=26737839
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jornada 28: CLUB ATLETICO DE MADRID S.A.D. 'H' vs A.D. ORCASITAS '
+ A'
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+UID:rffm-atm-inf-h-5622534@rffm.es
+DESCRIPTION:Jornada 28\nLocal: CLUB ATLETICO DE MADRID S.A.D. 'H'\nVisitan
+ te: A.D. ORCASITAS 'A'\nActa: https://www.rffm.es/acta-partido/5622534?tem
+ porada=22&competicion=26737828&grupo=26737839\nHora: pendiente de confirma
+ r en RFFM
+URL:https://www.rffm.es/acta-partido/5622534?temporada=22&competicion=2673
+ 7828&grupo=26737839
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jornada 29: UNION DEPORTIVA USERA 'A' vs CLUB ATLETICO DE MADRID S
+ .A.D. 'H'
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+UID:rffm-atm-inf-h-5622542@rffm.es
+DESCRIPTION:Jornada 29\nLocal: UNION DEPORTIVA USERA 'A'\nVisitante: CLUB 
+ ATLETICO DE MADRID S.A.D. 'H'\nActa: https://www.rffm.es/acta-partido/5622
+ 542?temporada=22&competicion=26737828&grupo=26737839\nHora: pendiente de c
+ onfirmar en RFFM
+URL:https://www.rffm.es/acta-partido/5622542?temporada=22&competicion=2673
+ 7828&grupo=26737839
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jornada 30: CLUB ATLETICO DE MADRID S.A.D. 'H' vs C.D. NUEVO BOADI
+ LLA 'F'
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+UID:rffm-atm-inf-h-5622549@rffm.es
+DESCRIPTION:Jornada 30\nLocal: CLUB ATLETICO DE MADRID S.A.D. 'H'\nVisitan
+ te: C.D. NUEVO BOADILLA 'F'\nActa: https://www.rffm.es/acta-partido/562254
+ 9?temporada=22&competicion=26737828&grupo=26737839\nHora: pendiente de con
+ firmar en RFFM
+URL:https://www.rffm.es/acta-partido/5622549?temporada=22&competicion=2673
+ 7828&grupo=26737839
+END:VEVENT
+END:VCALENDAR
