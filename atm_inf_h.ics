@@ -108,14 +108,13 @@ URL:https://www.rffm.es/acta-partido/5622384?temporada=22&competicion=2673
  7828&grupo=26737839
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:J10: ATM ❤️🤍 vs Alzola-Halcones 'B'
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
+SUMMARY:J10: ATM ❤️🤍 vs Alzola-Halcones 'B' (15h00)
+DTSTART:20261128T150000
+DTEND:20261128T164500
 UID:rffm-atm-inf-h-jornada-10@rffm.es
 DESCRIPTION:Jornada 10\nLocal: CLUB ATLETICO DE MADRID S.A.D. 'H'\nVisitan
- te: C.D. ALZOLA-HALCONES 'B'\nCitación: pendiente de confirmar\nActa: htt
- ps://www.rffm.es/acta-partido/5622392?temporada=22&competicion=26737828&gr
- upo=26737839\nHora: pendiente de confirmar en RFFM
+ te: C.D. ALZOLA-HALCONES 'B'\nCitación: 14:00\nActa: https://www.rffm.es/
+ acta-partido/5622392?temporada=22&competicion=26737828&grupo=26737839
 URL:https://www.rffm.es/acta-partido/5622392?temporada=22&competicion=2673
  7828&grupo=26737839
 END:VEVENT
