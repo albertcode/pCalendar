@@ -4,7 +4,7 @@ PRODID:-//RFFM Atletico Infantil H//ES
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Atletico Infantil H
 BEGIN:VEVENT
-SUMMARY:J1: Racing Villaverde 'B' vs ATM 15:00
+SUMMARY:J1: Racing Villaverde 'B' vs ATM ❤️🤍 (15:00hrs)
 DTSTART:20260927T150000
 DTEND:20260927T164500
 UID:rffm-atm-inf-h-jornada-1@rffm.es
@@ -15,7 +15,7 @@ URL:https://www.rffm.es/acta-partido/5622324?temporada=22&competicion=2673
  7828&grupo=26737839
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:J2: ATM vs La Mancha 'A' 15:00
+SUMMARY:J2: ATM ❤️🤍 vs La Mancha 'A' (15:00hrs)
 DTSTART:20261003T150000
 DTEND:20261003T164500
 UID:rffm-atm-inf-h-jornada-2@rffm.es
@@ -26,7 +26,7 @@ URL:https://www.rffm.es/acta-partido/5622332?temporada=22&competicion=2673
  7828&grupo=26737839
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:J3: Orcasur Sin Fronteras 'A' vs ATM 13:45
+SUMMARY:J3: Orcasur Sin Fronteras 'A' vs ATM ❤️🤍 (13:45hrs)
 DTSTART:20261010T134500
 DTEND:20261010T153000
 UID:rffm-atm-inf-h-jornada-3@rffm.es
@@ -37,7 +37,7 @@ URL:https://www.rffm.es/acta-partido/5622339?temporada=22&competicion=2673
  7828&grupo=26737839
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:J4: ATM vs Equipo Fuera (No asignado)
+SUMMARY:J4: ATM ❤️🤍 vs Equipo Fuera (No asignado)
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 UID:rffm-atm-inf-h-jornada-4@rffm.es
@@ -49,7 +49,7 @@ URL:https://www.rffm.es/acta-partido/5672828?temporada=22&competicion=2673
  7828&grupo=26737839
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:J5: Fundación Rayo Vallecano 'F' vs ATM 16:30
+SUMMARY:J5: Fundación Rayo Vallecano 'F' vs ATM ❤️🤍 (16:30hrs)
 DTSTART:20261024T163000
 DTEND:20261024T181500
 UID:rffm-atm-inf-h-jornada-5@rffm.es
@@ -60,7 +60,7 @@ URL:https://www.rffm.es/acta-partido/5622354?temporada=22&competicion=2673
  7828&grupo=26737839
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:J6: ATM vs Madrid Río - Arganzuela 'B' 13:30
+SUMMARY:J6: ATM ❤️🤍 vs Madrid Río - Arganzuela 'B' (13:30hrs)
 DTSTART:20261031T133000
 DTEND:20261031T151500
 UID:rffm-atm-inf-h-jornada-6@rffm.es
@@ -71,7 +71,7 @@ URL:https://www.rffm.es/acta-partido/5622362?temporada=22&competicion=2673
  7828&grupo=26737839
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:J7: La Chimenea 'A' vs ATM 10:30
+SUMMARY:J7: La Chimenea 'A' vs ATM ❤️🤍 (10:30hrs)
 DTSTART:20261107T103000
 DTEND:20261107T121500
 UID:rffm-atm-inf-h-jornada-7@rffm.es
@@ -82,18 +82,19 @@ URL:https://www.rffm.es/acta-partido/5622369?temporada=22&competicion=2673
  7828&grupo=26737839
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:J8: ATM vs Villaverde San Andrés 'A' 15:00
-DTSTART:20261114T150000
-DTEND:20261114T164500
+SUMMARY:J8: ATM ❤️🤍 vs Villaverde San Andrés 'A'
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
 UID:rffm-atm-inf-h-jornada-8@rffm.es
 DESCRIPTION:Jornada 8\nLocal: CLUB ATLETICO DE MADRID S.A.D. 'H'\nVisitant
  e: S.A.D. VILLAVERDE SAN ANDRES 'A'\nActa: https://www.rffm.es/acta-partid
- o/5622377?temporada=22&competicion=26737828&grupo=26737839
-URL:https://www.rffm.es/acta-partido/5622377?temporada=22&competicion=2673
+ o/5744692?temporada=22&competicion=26737828&grupo=26737839\nHora: pendient
+ e de confirmar en RFFM
+URL:https://www.rffm.es/acta-partido/5744692?temporada=22&competicion=2673
  7828&grupo=26737839
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:J9: Usera 'A' vs ATM 12:15
+SUMMARY:J9: Usera 'A' vs ATM ❤️🤍 (12:15hrs)
 DTSTART:20261121T121500
 DTEND:20261121T140000
 UID:rffm-atm-inf-h-jornada-9@rffm.es
@@ -104,7 +105,7 @@ URL:https://www.rffm.es/acta-partido/5622384?temporada=22&competicion=2673
  7828&grupo=26737839
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:J10: ATM vs Alzola-Halcones 'B'
+SUMMARY:J10: ATM ❤️🤍 vs Alzola-Halcones 'B'
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 UID:rffm-atm-inf-h-jornada-10@rffm.es
@@ -116,7 +117,7 @@ URL:https://www.rffm.es/acta-partido/5622392?temporada=22&competicion=2673
  7828&grupo=26737839
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:J11: Unión Deportiva Arganzuela 'C' vs ATM
+SUMMARY:J11: Unión Deportiva Arganzuela 'C' vs ATM ❤️🤍
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 UID:rffm-atm-inf-h-jornada-11@rffm.es
@@ -128,7 +129,7 @@ URL:https://www.rffm.es/acta-partido/5622399?temporada=22&competicion=2673
  7828&grupo=26737839
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:J12: ATM vs San Fermín 'A'
+SUMMARY:J12: ATM ❤️🤍 vs San Fermín 'A'
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 UID:rffm-atm-inf-h-jornada-12@rffm.es
@@ -140,7 +141,7 @@ URL:https://www.rffm.es/acta-partido/5622407?temporada=22&competicion=2673
  7828&grupo=26737839
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:J13: Orcasitas 'A' vs ATM
+SUMMARY:J13: Orcasitas 'A' vs ATM ❤️🤍
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 UID:rffm-atm-inf-h-jornada-13@rffm.es
@@ -152,7 +153,7 @@ URL:https://www.rffm.es/acta-partido/5622414?temporada=22&competicion=2673
  7828&grupo=26737839
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:J14: ATM vs Unión Deportiva Usera 'A'
+SUMMARY:J14: ATM ❤️🤍 vs Unión Deportiva Usera 'A'
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 UID:rffm-atm-inf-h-jornada-14@rffm.es
@@ -164,7 +165,7 @@ URL:https://www.rffm.es/acta-partido/5622422?temporada=22&competicion=2673
  7828&grupo=26737839
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:J15: Nuevo Boadilla 'F' vs ATM
+SUMMARY:J15: Nuevo Boadilla 'F' vs ATM ❤️🤍
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 UID:rffm-atm-inf-h-jornada-15@rffm.es
@@ -176,7 +177,7 @@ URL:https://www.rffm.es/acta-partido/5622429?temporada=22&competicion=2673
  7828&grupo=26737839
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:J16: ATM vs Racing Villaverde 'B'
+SUMMARY:J16: ATM ❤️🤍 vs Racing Villaverde 'B'
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 UID:rffm-atm-inf-h-jornada-16@rffm.es
@@ -188,7 +189,7 @@ URL:https://www.rffm.es/acta-partido/5622444?temporada=22&competicion=2673
  7828&grupo=26737839
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:J17: La Mancha 'A' vs ATM 09:30
+SUMMARY:J17: La Mancha 'A' vs ATM ❤️🤍 (09:30hrs)
 DTSTART:20270213T093000
 DTEND:20270213T111500
 UID:rffm-atm-inf-h-jornada-17@rffm.es
@@ -199,7 +200,7 @@ URL:https://www.rffm.es/acta-partido/5622452?temporada=22&competicion=2673
  7828&grupo=26737839
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:J18: ATM vs Orcasur Sin Fronteras 'A'
+SUMMARY:J18: ATM ❤️🤍 vs Orcasur Sin Fronteras 'A'
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
 UID:rffm-atm-inf-h-jornada-18@rffm.es
@@ -211,7 +212,7 @@ URL:https://www.rffm.es/acta-partido/5622459?temporada=22&competicion=2673
  7828&grupo=26737839
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:J19: Equipo Casa (No asignado) vs ATM
+SUMMARY:J19: Equipo Casa (No asignado) vs ATM ❤️🤍
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
 UID:rffm-atm-inf-h-jornada-19@rffm.es
@@ -223,7 +224,7 @@ URL:https://www.rffm.es/acta-partido/5672820?temporada=22&competicion=2673
  7828&grupo=26737839
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:J20: ATM vs Fundación Rayo Vallecano 'F'
+SUMMARY:J20: ATM ❤️🤍 vs Fundación Rayo Vallecano 'F'
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270307
 UID:rffm-atm-inf-h-jornada-20@rffm.es
@@ -235,7 +236,7 @@ URL:https://www.rffm.es/acta-partido/5622474?temporada=22&competicion=2673
  7828&grupo=26737839
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:J21: Madrid Río - Arganzuela 'B' vs ATM
+SUMMARY:J21: Madrid Río - Arganzuela 'B' vs ATM ❤️🤍
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
 UID:rffm-atm-inf-h-jornada-21@rffm.es
@@ -247,7 +248,7 @@ URL:https://www.rffm.es/acta-partido/5622482?temporada=22&competicion=2673
  7828&grupo=26737839
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:J22: ATM vs La Chimenea 'A'
+SUMMARY:J22: ATM ❤️🤍 vs La Chimenea 'A'
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
 UID:rffm-atm-inf-h-jornada-22@rffm.es
@@ -259,7 +260,7 @@ URL:https://www.rffm.es/acta-partido/5622489?temporada=22&competicion=2673
  7828&grupo=26737839
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:J23: Villaverde San Andrés 'A' vs ATM
+SUMMARY:J23: Villaverde San Andrés 'A' vs ATM ❤️🤍
 DTSTART;VALUE=DATE:20270403
 DTEND;VALUE=DATE:20270404
 UID:rffm-atm-inf-h-jornada-23@rffm.es
@@ -271,7 +272,7 @@ URL:https://www.rffm.es/acta-partido/5622497?temporada=22&competicion=2673
  7828&grupo=26737839
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:J24: ATM vs Usera 'A'
+SUMMARY:J24: ATM ❤️🤍 vs Usera 'A'
 DTSTART;VALUE=DATE:20270410
 DTEND;VALUE=DATE:20270411
 UID:rffm-atm-inf-h-jornada-24@rffm.es
@@ -283,7 +284,7 @@ URL:https://www.rffm.es/acta-partido/5622504?temporada=22&competicion=2673
  7828&grupo=26737839
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:J25: Alzola-Halcones 'B' vs ATM
+SUMMARY:J25: Alzola-Halcones 'B' vs ATM ❤️🤍
 DTSTART;VALUE=DATE:20270417
 DTEND;VALUE=DATE:20270418
 UID:rffm-atm-inf-h-jornada-25@rffm.es
@@ -295,7 +296,7 @@ URL:https://www.rffm.es/acta-partido/5622512?temporada=22&competicion=2673
  7828&grupo=26737839
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:J26: ATM vs Unión Deportiva Arganzuela 'C'
+SUMMARY:J26: ATM ❤️🤍 vs Unión Deportiva Arganzuela 'C'
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270425
 UID:rffm-atm-inf-h-jornada-26@rffm.es
@@ -307,7 +308,7 @@ URL:https://www.rffm.es/acta-partido/5622519?temporada=22&competicion=2673
  7828&grupo=26737839
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:J27: San Fermín 'A' vs ATM
+SUMMARY:J27: San Fermín 'A' vs ATM ❤️🤍
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
 UID:rffm-atm-inf-h-jornada-27@rffm.es
@@ -319,7 +320,7 @@ URL:https://www.rffm.es/acta-partido/5622527?temporada=22&competicion=2673
  7828&grupo=26737839
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:J28: ATM vs Orcasitas 'A'
+SUMMARY:J28: ATM ❤️🤍 vs Orcasitas 'A'
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
 UID:rffm-atm-inf-h-jornada-28@rffm.es
@@ -331,7 +332,7 @@ URL:https://www.rffm.es/acta-partido/5622534?temporada=22&competicion=2673
  7828&grupo=26737839
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:J29: Unión Deportiva Usera 'A' vs ATM
+SUMMARY:J29: Unión Deportiva Usera 'A' vs ATM ❤️🤍
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
 UID:rffm-atm-inf-h-jornada-29@rffm.es
@@ -343,7 +344,7 @@ URL:https://www.rffm.es/acta-partido/5622542?temporada=22&competicion=2673
  7828&grupo=26737839
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:J30: ATM vs Nuevo Boadilla 'F'
+SUMMARY:J30: ATM ❤️🤍 vs Nuevo Boadilla 'F'
 DTSTART;VALUE=DATE:20270522
 DTEND;VALUE=DATE:20270523
 UID:rffm-atm-inf-h-jornada-30@rffm.es
